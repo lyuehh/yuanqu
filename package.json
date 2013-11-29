@@ -1,0 +1,27 @@
+{
+  "name": "yuanqu",
+  "version": "0.0.0",
+  "main": "lib/yuanqu.js",
+  "description": "read yuanqu in your command line...",
+  "homepage": "https://github.com/lyuehh/yuanqu",
+  "bugs": "https://github.com/lyuehh/yuanqu/issues",
+  "author": {
+    "name": "lyuehh",
+    "email": "lyuehh@gmail.com",
+    "url": "http://lyuehh.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lyuehh/yuanqu"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}
